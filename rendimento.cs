@@ -36,7 +36,7 @@ class Rendimento
         decimal rendimento;
 
         Console.WriteLine("\nTabela de Iteração - Problema 6\n");
-        Console.WriteLine("Data\t\tValor Atual\tRendimento Mensal\tRenda Líquida Mensal\tRenda Acumulada\tSaldo");
+        Console.WriteLine("|Data\t\t|Valor Atual\t|Rendimento Mensal\t|Renda Líquida Mensal\t|Renda Acumulada\t|Saldo");
 
         bool resgate_realizado = false;
 
@@ -60,7 +60,7 @@ class Rendimento
                 
                 decimal rendimento_mensal = valor_atual - valor_inicio_mes;
                 
-                Console.WriteLine($"|{ultimo_dia_mes:dd/MM/yyyy}\t|{valor_atual:C2}\t|{rendimento_mensal:C2}\t|{rendimento_mensal:C2}\t|{renda_acumulada:C2}\t|{saldo:C2}");
+                Console.WriteLine($"|{ultimo_dia_mes:dd/MM/yyyy}\t|{valor_atual:C2}\t|{rendimento_mensal:C2}\t\t|{rendimento_mensal:C2}\t\t|{renda_acumulada:C2}\t\t|{saldo:C2}");
                 
                 ultimo_dia_mes = data_atual;
                 valor_inicio_mes = valor_atual; 
@@ -82,7 +82,7 @@ class Rendimento
             if (data_atual.Date == data_final.Date && data_atual.Month == ultimo_dia_mes.Month)
             {
                 decimal rendimento_mensal = valor_atual - valor_inicio_mes;
-                Console.WriteLine($"|{data_atual:dd/MM/yyyy}\t|{valor_atual:C2}\t|{rendimento_mensal:C2}\t|{rendimento_mensal:C2}\t|{renda_acumulada:C2}\t|{saldo:C2}");
+                Console.WriteLine($"|{data_atual:dd/MM/yyyy}\t|{valor_atual:C2}\t|{rendimento_mensal:C2}\t\t|{rendimento_mensal:C2}\t\t|{renda_acumulada:C2}\t\t|{saldo:C2}");
             }
             data_atual = data_atual.AddDays(1);
         }

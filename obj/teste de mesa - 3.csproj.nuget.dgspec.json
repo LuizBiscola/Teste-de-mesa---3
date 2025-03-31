@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizmartins\\Documents\\Prova BNE\\Teste de mesa - 3\\teste de mesa - 3.csproj": {}
+    "C:\\Users\\VIRTUAL INFORMATICA\\OneDrive\\Documentos\\Prova BNE\\Teste-de-mesa---3\\teste de mesa - 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizmartins\\Documents\\Prova BNE\\Teste de mesa - 3\\teste de mesa - 3.csproj": {
+    "C:\\Users\\VIRTUAL INFORMATICA\\OneDrive\\Documentos\\Prova BNE\\Teste-de-mesa---3\\teste de mesa - 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizmartins\\Documents\\Prova BNE\\Teste de mesa - 3\\teste de mesa - 3.csproj",
+        "projectUniqueName": "C:\\Users\\VIRTUAL INFORMATICA\\OneDrive\\Documentos\\Prova BNE\\Teste-de-mesa---3\\teste de mesa - 3.csproj",
         "projectName": "teste de mesa - 3",
-        "projectPath": "C:\\Users\\luizmartins\\Documents\\Prova BNE\\Teste de mesa - 3\\teste de mesa - 3.csproj",
-        "packagesPath": "C:\\Users\\luizmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizmartins\\Documents\\Prova BNE\\Teste de mesa - 3\\obj\\",
+        "projectPath": "C:\\Users\\VIRTUAL INFORMATICA\\OneDrive\\Documentos\\Prova BNE\\Teste-de-mesa---3\\teste de mesa - 3.csproj",
+        "packagesPath": "C:\\Users\\VIRTUAL INFORMATICA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VIRTUAL INFORMATICA\\OneDrive\\Documentos\\Prova BNE\\Teste-de-mesa---3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\luizmartins\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\VIRTUAL INFORMATICA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

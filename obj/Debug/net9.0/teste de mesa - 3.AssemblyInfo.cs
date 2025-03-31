@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste de mesa - 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d23348124a9db8907648d8dcea8bfeb02366fd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste de mesa - 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste de mesa - 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
